@@ -1,0 +1,3 @@
+[submodule "vendor/alect-themes"]
+	path = vendor/alect-themes
+	url = git@github.com:alezost/alect-themes.git
